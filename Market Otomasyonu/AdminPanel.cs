@@ -34,6 +34,7 @@ namespace Market_Otomasyonu
         private void AdminPanel_Load(object sender, EventArgs e)
         {
             timer1.Start();
+            //Emirhan KARAKURT
         }
 
         private void btn_kullanici_Click(object sender, EventArgs e)
